@@ -1,6 +1,6 @@
 {
-  "tag_name": "v2.1.8",
-  "html_url": "https://github.com/sergiotrz/eeg-suite/releases/tag/v2.1.8",
-  "windows_url": "https://github.com/sergiotrz/eeg-data-processor-releases/releases/download/v2.1.8/EEG_Data_Processor_Setup.exe",
-  "macos_url": "https://github.com/sergiotrz/eeg-data-processor-releases/releases/download/v2.1.8/EEG_Data_Processor_macOS.dmg"
+  "tag_name": "v2.1.9",
+  "html_url": "https://github.com/sergiotrz/eeg-suite/releases/tag/v2.1.9",
+  "windows_url": "https://github.com/sergiotrz/eeg-data-processor-releases/releases/download/v2.1.9/EEG_Data_Processor_Setup.exe",
+  "macos_url": "https://github.com/sergiotrz/eeg-data-processor-releases/releases/download/v2.1.9/EEG_Data_Processor_macOS.dmg"
 }
